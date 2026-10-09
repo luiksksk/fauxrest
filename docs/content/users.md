@@ -1,5 +1,5 @@
 ---
-title: "💃 Developers"
+title: "💃 Users"
 date: "2026-06-30"
 ---
 
